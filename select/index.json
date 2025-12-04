@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ティーンエイジブルー",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-04T18:25:24.986560Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ティーンエイジブルー",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_ティーンエイジブルー_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ティーンエイジブルー",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_ティーンエイジブルー_Eve.txt"
+    }
+  ]
+}
